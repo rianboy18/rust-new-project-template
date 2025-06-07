@@ -1,3 +1,5 @@
+[![Tests](https://github.com/rianboy18/rust-new-project-template/actions/workflows/tests.yml/badge.svg)](https://github.com/rianboy18/rust-new-project-template/actions/workflows/tests.yml)
+
 # rust-new-project-template
 A good starting point for a new Rust project
 
